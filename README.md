@@ -10,21 +10,21 @@ The configuration of a function must be with exacltly one trigger.
 - Connet to azure portal (https://portal.azure.com/learn.docs.microsoft.com) with a valid subscription.
 
 - Create a Resource -> Compute ->  Function app
-![](img/resource-create.png)
-#---------------------
-![](img/app-function.png)
+![](/img/resource-create.PNG)
+
+![](/img/app-function.png)
 - Configure your service and choose storage resource.
-![](img/appservice.png)
+![](/img/appservice.png)
 ![](img/appconfig.png)
 To add code with python , we need to install visual studio code and follow the configuration instrutions on your local machine. (this step can be done from CLI).
 - Deploy from VS Code your code on Azure (need to sign in from VS code Azure Plugin).
-![](img/Deployment-app.png)
-#---------------------
-![](img/local-trigger.png)
+![](/img/Deployment-app.png)
+
+![](/img/local-trigger.png)
 - Run Trigger service from dashboard.
-![](img/HTTPtrigger.png)
+![](/img/HTTPtrigger.png)
 - Test Trigger App service (In my case, I'am using Postman (https://www.postman.com/) as HTTP Client for testing).
-![](img/test.png)
+![](/img/test.png)
 
 
 References:
