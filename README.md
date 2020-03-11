@@ -29,11 +29,11 @@ To add code with python , we need to install visual studio code and follow the c
 
 - Run Trigger service from dashboard.
 
-![](/img/HTTPtrigger.png)
+![](/img/HTTPtrigger.PNG)
 
 - Test Trigger App service (In my case, I'am using Postman (https://www.postman.com/) as HTTP Client for testing).
 
-![](/img/test.png)
+![](/img/test.PNG)
 
 
 References:
